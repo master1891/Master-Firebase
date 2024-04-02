@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830723083788",
+    "project_id": "master-firebase-8980a",
+    "storage_bucket": "master-firebase-8980a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830723083788:android:2b29089abfc4b143216829",
+        "android_client_info": {
+          "package_name": "com.nels.master.masterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8asqO7KykOqFYdy_G6dYjUakx-pW1ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
